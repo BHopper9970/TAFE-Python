@@ -9,6 +9,7 @@ Version 1.0
 
 
 import random
+import tkinter
 dice_sides = int(input('How many sides? '))
 dice_count = int(input('How many dice? '))
 total = 0 # total dice roll so far
